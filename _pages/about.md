@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student at School of Information and Electronics, Beijng Institute of Technology. I did my bachelors at School of Electronic Engineering, Xidian University. I emphasize on computational imaging, computer vision and image signal processing. My currently research interests include spectral imaging and target detection.
+I am a master student at School of Information and Electronics, Beijng Institute of Technology. I did my bachelors at School of Electronic Engineering, Xidian University. I emphasize on computational imaging, computer vision and image signal processing. My currently research interests include spectral imaging and object detection.
 
 Publications
 ======
